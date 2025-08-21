@@ -1,0 +1,12 @@
+# Data folder
+
+- `raw/` — source documents exactly as provided:
+  - `Otis-10-K.pdf`
+  - `101-01-Otis-10-K-Fixed.xlsx`
+  - `Otis-Investor-Presentation.pdf`
+  - `Otis-90-Minute-Case-Study.pdf`
+  - `Sheet-Case-Study-Slides.pdf`
+  - optionally: `90 minute 3 statement OTIS model.xlsx` (your own scratch file)
+- `interim/` — any cleaned or annotated versions you create during analysis (optional).
+
+> Tip: Keep large XLSX/PDF in LFS if repo size matters.
